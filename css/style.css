@@ -9,17 +9,17 @@ header{
     width: 800px;
     padding-top: 10px;
 }
-.ico{
+.imageHojaYcarro_fondo{
     background-color: aquamarine;
 }
-.icono{
-    height: 30px;
+.imageHojaYcarro{
+    height: 35px;
 }
 h1{
     font-family: 'Alfa Slab One', cursive;
 }
 
-.class4{
+.barraLupa{
     border: 2px solid black;
     border-radius: 5px;
     display: flex;
@@ -28,8 +28,8 @@ h1{
     width: 290px;
 }
 
-.icono34{
-    height: 30px
+.imageLupa{
+    height: 35px
 }
 
 nav{
@@ -43,7 +43,7 @@ nav{
     font-size: 20px;
     font-family: 'Manrope', sans-serif;
 }
-.section{
+.sectionTitulo{
     margin: 0 auto;
     width: 800px;
     padding-top: 10px;
@@ -51,7 +51,7 @@ nav{
     font-family: 'Manrope', sans-serif;
     font-size: 40px;
 }
-.article{
+.columnIzquier_columnDerecha{
     margin: 0 auto;
     width: 800px;
     display: flex;
@@ -59,7 +59,7 @@ nav{
     gap: 20px;
     padding-bottom: 20px;
 }
-.col-r{
+.column_izquier{
     display: flex;
     background-color: aquamarine;
     border: 1px solid aquamarine;
@@ -68,7 +68,7 @@ nav{
     width: 530px;
     justify-content: space-between;
 }
-.class1{
+.texto-column_izquier{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -76,36 +76,36 @@ nav{
     padding-left: 30px;
     
 }
-.class1-1{
+.texto-column_izquier1{
     font-size: 25px;
 }
-.class1-2{
+.texto-column_izquier2{
     display: flex;
     height: 40px;
     align-items: center;
     justify-content: center;
     font-size: 30px;
 }
-#she{
+#image_flecha{
     color: white;
     height: 45px;
     text-align: center;
 }
-.icono1{
+.imageSuculents-1{
     height: 250px;
     width: 250px;
 }
-.col-l{
+.column_derecha{
     width: 250px;
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
-.icono2{
+.imageAloe{
     height: 180px;
     border: 2px solid black;
 }
-.class2{
+.texto-column_derecha{
     background-color: aquamarine;
     display: flex;
     width: 250px;
@@ -114,7 +114,7 @@ nav{
     justify-content: center;
     font-size: 23px;
 }
-.class2-1{
+.texto-column_derecha-1{
     color: white;
     height: 30px;
     text-align: center;
@@ -128,16 +128,19 @@ nav{
     display: flex;
     height: 160px;
 }
-.class3{
+.imagesFooter{
     text-align: center;
     flex:1;
 }
-.icono3{
+.imagesFooterAll{
     border-radius: 50%;
     height: 130px;
     width: 120px;
 }
-.class3-2{
+#colorTextoimagesFooter{
+    color:blue;
+}
+.cookiePolicy{
     border: 2px solid black;
     margin: 0 auto;
     width: 800px;
@@ -150,7 +153,7 @@ nav{
     bottom: 30px;
     background-color: white;
 }
-.ico1{
+.imageAlert{
     height: 50px;
 }
 button {
